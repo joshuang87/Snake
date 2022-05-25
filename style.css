@@ -1,0 +1,21 @@
+#game_container{
+    text-align: center;
+}
+
+#game_board{
+    border: 3px solid;
+}
+
+#score_text{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100px;
+}
+
+#reset_btn{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    width: 100px;
+    height: 50px;
+    border-radius: 15px;
+    cursor: pointer;
+}
